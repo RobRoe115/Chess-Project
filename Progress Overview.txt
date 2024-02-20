@@ -1,0 +1,42 @@
+Chess Project  
+
+Completed
+ 
+Turn System
+-White starts
+-turns alternate from white to black until game ends.   
+
+Pawn
+- Moves forward one space  
+- Can move two spaces on first turn    
+- Can only move one space afterwards  
+- Can only take an opponent by moving into a diagonal space.  
+- Transforms into any piece the player chooses if it reaches the other side of the board  
+
+Knight  
+- Moves in an L shape can move two squares in any direction vertically followed by one square horizontally  
+- Can take an opponent on landing square.  
+
+Bishop  
+-Moves in a diagonal line    
+-Can take an opponent on diagonal square.  
+  
+
+Rook  
+-Moves vertically or horizontally   
+-Can take an opponent on a horizontal or vertical square.  
+
+Queen  
+-Can move vertically, horizontally or diagonally  
+-Can take an opponent on any horizontal,vertical or diagonal square  
+
+King  
+-Can move to any square in a 1-square box around the king but not twoard to the enemy king  
+-If taken by other player game ends
+
+Not completed
+
+-Check and checkmate System on king not implemneted
+-Random valid moves by AI not implemented
+-Best next move AI not implemented
+-Two moves ahead AI not Implemented
